@@ -1,0 +1,1 @@
+CGO_ENABLED=0 GOOS=darwin GOARCH=arm64 go build -o image-format-conversion ../pkg/main.go
