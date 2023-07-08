@@ -1,6 +1,9 @@
 # image-format-conversion
 图片格式转换
 
+## 编译
+go build ./pkg/main.go
+
 ## 使用
 目前仅支持webp 转换为jpeg
 
